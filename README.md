@@ -90,7 +90,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 **Step 2 — Download NASA Battery Dataset**
 
-Go to: https://data.nasa.gov/dataset/Li-ion-Battery-Aging-Datasets
+Go to: https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
 
 Download B0005.csv and place it in the same folder as battery_analysis.py
 
@@ -121,4 +121,4 @@ You will see SOC and SOH graphs, temperature alerts, and a live BMS status dashb
 ## Dataset Credit
 
 NASA Battery Dataset — NASA Ames Prognostics Center of Excellence
-https://data.nasa.gov/dataset/Li-ion-Battery-Aging-Datasets
+https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
